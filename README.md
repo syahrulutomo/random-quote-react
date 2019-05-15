@@ -1,13 +1,13 @@
 ## Simple Random Quote Generator
 
 ### `Features`
-
- Fetch randomly new quote from API
- Tweet current quote
+<br/>
+ Fetch randomly new quote from API<br/>
+ Tweet current quote<br/>
 
 ### `Tools`
-
- React
- Redux
- Redux-thunk
- React-redux
+<br/>
+ React<br/>  
+ Redux<br/>  
+ Redux-thunk<br/>
+ React-redux<br/>
